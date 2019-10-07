@@ -1,0 +1,67 @@
+body{
+  font-family: 'Raleway', sans-serif;
+  background-image: url('../bilder/bakgrunn.jpg');
+  background-size: cover;
+  font-family: sans-serif;
+  font-size: 20px;
+
+}
+
+
+
+.sidenav{
+  height: 100%;
+  width:160px;
+  position: fixed;
+  z-index: 1;
+  top:0;
+  left:0;
+  background-color:#195190;
+  overflow-x: hidden;
+  padding-top: 50px;
+}
+
+.sidenav a{
+  padding: 20px 10px 20px 10px;
+  text-decoration: none;
+  font-size:25px;
+  font-family: 'Raleway', sans-serif;
+  color: white;
+  display: block;
+
+}
+
+.sidenav a:hover{
+  color:black;
+
+}
+
+
+.h1{
+  font-size: 20px;
+  font-family:'Varela Round', sans-serif;
+  text-align:center;
+}
+
+
+.main{
+  margin-left: 160px;
+  font-size: 28px;
+  padding:0px 10px;
+
+}
+
+.logo{
+  margin-top: -80px;
+  margin-left: 150px;
+  position: absolute;
+
+}
+
+.telefon{
+  margin-top: 150px;
+  margin-left: 600px;
+  z-index: 0;
+  position: absolute;
+
+}
