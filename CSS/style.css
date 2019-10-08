@@ -22,7 +22,7 @@ body{
 
 .logo{
     margin-top: -60px;
-    
+
 }
 
 .active{
@@ -30,7 +30,7 @@ body{
 }
 
 .sidenav a{
-  text-align: center;    
+  text-align: center;
   margin-top: 20px;
   padding: 20px 10px 20px 10px;
   text-decoration: none;
@@ -64,8 +64,16 @@ body{
 
 .telefon{
   margin-top: 150px;
-  margin-left: 600px;
-  z-index: 0;
+  margin-left: 500px;
   position: absolute;
+
+}
+
+.laptop{
+  margin-top: 60px;
+  margin-left: 800px;
+  position: absolute;
+
+
 
 }
