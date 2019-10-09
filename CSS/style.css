@@ -6,8 +6,6 @@ body{
   font-size: 20px;
 }
 
-
-
 .sidenav{
   height: 100%;
   width:160px;
@@ -73,7 +71,26 @@ body{
   margin-top: 60px;
   margin-left: 800px;
   position: absolute;
+}
 
+.content, .header {
+  text-align: center;
+  margin: auto;
+  width: 75%;
+  color: white;
+}
 
+.content {
+  margin-top: 2em;
+  text-align: left;
+  background-color: #D7D7D7;
+  color: black;
+  box-shadow: 5px 10px #888888;
+  border-radius: 15px;
+  padding: 15px;
+  margin-left: 10em;
+}
 
+.content h3 {
+  text-align: center;
 }
